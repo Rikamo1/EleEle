@@ -1,0 +1,16 @@
+{
+  "name": "ele-ele-bot",
+  "version": "1.0.0",
+  "description": "Rikamo's EleEle Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rikamo_",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "eslint": "^8.13.0"
+  }
+}
